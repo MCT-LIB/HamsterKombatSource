@@ -1,0 +1,146 @@
+[
+    {
+        "letter": "a",
+        "cypher": ".-"
+    },
+    {
+        "letter": "b",
+        "cypher": "-..."
+    },
+    {
+        "letter": "c",
+        "cypher": "-.-."
+    },
+    {
+        "letter": "d",
+        "cypher": "-.."
+    },
+    {
+        "letter": "e",
+        "cypher": "."
+    },
+    {
+        "letter": "f",
+        "cypher": "..-."
+    },
+    {
+        "letter": "g",
+        "cypher": "--."
+    },
+    {
+        "letter": "h",
+        "cypher": "...."
+    },
+    {
+        "letter": "i",
+        "cypher": ".."
+    },
+    {
+        "letter": "j",
+        "cypher": ".---"
+    },
+    {
+        "letter": "k",
+        "cypher": "-.-"
+    },
+    {
+        "letter": "l",
+        "cypher": ".-.."
+    },
+    {
+        "letter": "m",
+        "cypher": "--"
+    },
+    {
+        "letter": "n",
+        "cypher": "-."
+    },
+    {
+        "letter": "o",
+        "cypher": "---"
+    },
+    {
+        "letter": "p",
+        "cypher": ".--."
+    },
+    {
+        "letter": "q",
+        "cypher": "--.-"
+    },
+    {
+        "letter": "r",
+        "cypher": ".-."
+    },
+    {
+        "letter": "s",
+        "cypher": "..."
+    },
+    {
+        "letter": "t",
+        "cypher": "-"
+    },
+    {
+        "letter": "u",
+        "cypher": "..-"
+    },
+    {
+        "letter": "v",
+        "cypher": "...-"
+    },
+    {
+        "letter": "w",
+        "cypher": ".--"
+    },
+    {
+        "letter": "x",
+        "cypher": "-..-"
+    },
+    {
+        "letter": "y",
+        "cypher": "-.--"
+    },
+    {
+        "letter": "z",
+        "cypher": "--.."
+    },
+    {
+        "letter": "0",
+        "cypher": "-----"
+    },
+    {
+        "letter": "1",
+        "cypher": ".----"
+    },
+    {
+        "letter": "2",
+        "cypher": "..---"
+    },
+    {
+        "letter": "3",
+        "cypher": "...--"
+    },
+    {
+        "letter": "4",
+        "cypher": "....-"
+    },
+    {
+        "letter": "5",
+        "cypher": "....."
+    },
+    {
+        "letter": "6",
+        "cypher": "-...."
+    },
+    {
+        "letter": "7",
+        "cypher": "--..."
+    },
+    {
+        "letter": "8",
+        "cypher": "---.."
+    },
+    {
+        "letter": "9",
+        "cypher": "----."
+    }
+]

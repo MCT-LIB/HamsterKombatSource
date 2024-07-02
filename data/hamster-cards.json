@@ -1,0 +1,577 @@
+[
+    {
+        "id": "ceo",
+        "name": "CEO",
+        "section": "PR&Team"
+    },
+    {
+        "id": "marketing",
+        "name": "Marketing",
+        "section": "PR&Team"
+    },
+    {
+        "id": "it_team",
+        "name": "IT team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "support_team",
+        "name": "Support team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "facebook_ads",
+        "name": "HamsterBook",
+        "section": "PR&Team"
+    },
+    {
+        "id": "youtube",
+        "name": "HamsterTube",
+        "section": "PR&Team"
+    },
+    {
+        "id": "x",
+        "name": "X",
+        "section": "PR&Team"
+    },
+    {
+        "id": "medium",
+        "name": "Cointelegraph",
+        "section": "PR&Team"
+    },
+    {
+        "id": "instagram",
+        "name": "HamsterGram",
+        "section": "PR&Team"
+    },
+    {
+        "id": "tiktok",
+        "name": "TikTok",
+        "section": "PR&Team"
+    },
+    {
+        "id": "reddit",
+        "name": "Сoindesk",
+        "section": "PR&Team"
+    },
+    {
+        "id": "influencers",
+        "name": "Influencers",
+        "section": "PR&Team"
+    },
+    {
+        "id": "partnership_program",
+        "name": "Partnership program",
+        "section": "PR&Team"
+    },
+    {
+        "id": "product_team",
+        "name": "Product team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "bisdev_team",
+        "name": "BisDev team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "two_factor_authentication",
+        "name": "Two factor authentication",
+        "section": "PR&Team"
+    },
+    {
+        "id": "ux_ui_team",
+        "name": "UX and UI team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "security_team",
+        "name": "Security team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "qa_team",
+        "name": "QA team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "antihacking_shield",
+        "name": "Antihacking shield",
+        "section": "PR&Team"
+    },
+    {
+        "id": "risk_management_team",
+        "name": "Risk management team",
+        "section": "PR&Team"
+    },
+    {
+        "id": "security_audition",
+        "name": "Security Audition",
+        "section": "PR&Team"
+    },
+    {
+        "id": "anonymous_transactions_ban",
+        "name": "Anonymous transactions ban",
+        "section": "PR&Team"
+    },
+    {
+        "id": "blocking_suspicious_accounts",
+        "name": "Blocking suspicious accounts",
+        "section": "PR&Team"
+    },
+    {
+        "id": "tokenomics_expert",
+        "name": "Tokenomics expert",
+        "section": "PR&Team"
+    },
+    {
+        "id": "consensys_explorer_pass",
+        "name": "Consensus Explorer pass",
+        "section": "PR&Team"
+    },
+    {
+        "id": "vc_labs",
+        "name": "VC Labs",
+        "section": "PR&Team"
+    },
+    {
+        "id": "compliance_officer",
+        "name": "Compliance officer",
+        "section": "PR&Team"
+    },
+    {
+        "id": "money_20_20",
+        "name": "Welcome to Amsterdam",
+        "section": "PR&Team"
+    },
+    {
+        "id": "development_hub_mumbai",
+        "name": "Development Hub Mumbai",
+        "section": "PR&Team"
+    },
+    {
+        "id": "fan_tokens",
+        "name": "Fan tokens",
+        "section": "Markets"
+    },
+    {
+        "id": "staking",
+        "name": "Staking",
+        "section": "Markets"
+    },
+    {
+        "id": "btc_pairs",
+        "name": "BTC pairs",
+        "section": "Markets"
+    },
+    {
+        "id": "eth_pairs",
+        "name": "ETH pairs",
+        "section": "Markets"
+    },
+    {
+        "id": "top_10_cmc_pairs",
+        "name": "Top 10 cmc pairs",
+        "section": "Markets"
+    },
+    {
+        "id": "gamefi_tokens",
+        "name": "GameFi tokens",
+        "section": "Markets"
+    },
+    {
+        "id": "defi2.0_tokens",
+        "name": "Defi2.0 tokens",
+        "section": "Markets"
+    },
+    {
+        "id": "socialfi_tokens",
+        "name": "SocialFi tokens",
+        "section": "Markets"
+    },
+    {
+        "id": "meme_coins",
+        "name": "Meme coins",
+        "section": "Markets"
+    },
+    {
+        "id": "shit_coins",
+        "name": "Shit coins",
+        "section": "Markets"
+    },
+    {
+        "id": "margin_trading_x10",
+        "name": "Margin trading x10",
+        "section": "Markets"
+    },
+    {
+        "id": "margin_trading_x20",
+        "name": "Margin trading x20",
+        "section": "Markets"
+    },
+    {
+        "id": "margin_trading_x30",
+        "name": "Margin trading x30",
+        "section": "Markets"
+    },
+    {
+        "id": "margin_trading_x50",
+        "name": "Margin trading x50",
+        "section": "Markets"
+    },
+    {
+        "id": "margin_trading_x75",
+        "name": "Margin trading x75",
+        "section": "Markets"
+    },
+    {
+        "id": "margin_trading_x100",
+        "name": "Margin trading x100",
+        "section": "Markets"
+    },
+    {
+        "id": "derivatives",
+        "name": "Derivatives",
+        "section": "Markets"
+    },
+    {
+        "id": "prediction_markets",
+        "name": "Prediction markets",
+        "section": "Markets"
+    },
+    {
+        "id": "web3_integration",
+        "name": "Web3 integration",
+        "section": "Markets"
+    },
+    {
+        "id": "dao",
+        "name": "DAO",
+        "section": "Markets"
+    },
+    {
+        "id": "p2p_trading",
+        "name": "P2P trading",
+        "section": "Markets"
+    },
+    {
+        "id": "trading_bots",
+        "name": "Trading bots",
+        "section": "Markets"
+    },
+    {
+        "id": "layerzero_listing",
+        "name": "LayerZero Listing",
+        "section": "Markets"
+    },
+    {
+        "id": "kyc",
+        "name": "KYC",
+        "section": "Legal"
+    },
+    {
+        "id": "kyb",
+        "name": "KYB",
+        "section": "Legal"
+    },
+    {
+        "id": "legal_opinion",
+        "name": "Legal opinion",
+        "section": "Legal"
+    },
+    {
+        "id": "sec_transparancy",
+        "name": "SEC transparancy",
+        "section": "Legal"
+    },
+    {
+        "id": "anti_money_loundering",
+        "name": "Anti money loundering",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_uae",
+        "name": "Licence UAE",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_europe",
+        "name": "Licence Europe",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_asia",
+        "name": "Licence Asia",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_south_america",
+        "name": "Licence South America",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_australia",
+        "name": "Licence Australia",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_north_america",
+        "name": "Licence North America",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_nigeria",
+        "name": "Licence Nigeria",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_japan",
+        "name": "Licence Japan",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_ethiopia",
+        "name": "Licence Ethiopia",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_india",
+        "name": "Licence India",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_bangladesh",
+        "name": "Licence Bangladesh",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_indonesia",
+        "name": "Licence Indonesia",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_vietnam",
+        "name": "Licence Vietnam",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_turkey",
+        "name": "Licence Turkey",
+        "section": "Legal"
+    },
+    {
+        "id": "licence_philippines",
+        "name": "Licence Philippines",
+        "section": "Legal"
+    },
+    {
+        "id": "usdt_on_ton",
+        "name": "USDT on TON",
+        "section": "Specials"
+    },
+    {
+        "id": "blockchain_life_2024",
+        "name": "Blockchain Life 2024",
+        "section": "Specials"
+    },
+    {
+        "id": "save_hamsters_from_drowning",
+        "name": "Save hamsters from drowning",
+        "section": "Specials"
+    },
+    {
+        "id": "taker_carlson_interview",
+        "name": "Tooker Carlson interview",
+        "section": "Specials"
+    },
+    {
+        "id": "token2049",
+        "name": "Token2049",
+        "section": "Specials"
+    },
+    {
+        "id": "bogdanoff",
+        "name": "Bogdanoff is calling",
+        "section": "Specials"
+    },
+    {
+        "id": "apps_center_listing",
+        "name": "Apps Center Listing",
+        "section": "Specials"
+    },
+    {
+        "id": "villa_for_dev_team",
+        "name": "Villa for the DEV team",
+        "section": "Specials"
+    },
+    {
+        "id": "long_squeeze",
+        "name": "Long squeeze",
+        "section": "Specials"
+    },
+    {
+        "id": "success_with_tucker",
+        "name": "Success with Tooker",
+        "section": "Specials"
+    },
+    {
+        "id": "forbes",
+        "name": "You inspire millions",
+        "section": "Specials"
+    },
+    {
+        "id": "two_chairs",
+        "name": "There are two chairs...",
+        "section": "Specials"
+    },
+    {
+        "id": "short_squeeze",
+        "name": "Short squeeze",
+        "section": "Specials"
+    },
+    {
+        "id": "special_hamster_conference",
+        "name": "Special Hamster Conference",
+        "section": "Specials"
+    },
+    {
+        "id": "contract_with_football_club",
+        "name": "Ad contract with a football club",
+        "section": "Specials"
+    },
+    {
+        "id": "dubai_office",
+        "name": "Dubai office",
+        "section": "Specials"
+    },
+    {
+        "id": "joe_rogan_podcast",
+        "name": "Joe Roogan Podcast",
+        "section": "Specials"
+    },
+    {
+        "id": "venom_blockchain",
+        "name": "Venom Blockchain",
+        "section": "Specials"
+    },
+    {
+        "id": "notcoin_listing",
+        "name": "Notcoin listing",
+        "section": "Specials"
+    },
+    {
+        "id": "hamster_ai",
+        "name": "Hamster AI",
+        "section": "Specials"
+    },
+    {
+        "id": "nft_collection_launch",
+        "name": "NFT Collection Launch",
+        "section": "Specials"
+    },
+    {
+        "id": "top10_global",
+        "name": "Top 10 Global Ranking",
+        "section": "Specials"
+    },
+    {
+        "id": "bitcoin_pizza_day",
+        "name": "Bitcoin Pizza Day",
+        "section": "Specials"
+    },
+    {
+        "id": "ceo_21m",
+        "name": "21,000,000 CEOs",
+        "section": "Specials"
+    },
+    {
+        "id": "hamster_daily_show",
+        "name": "Hamster daily show",
+        "section": "Specials"
+    },
+    {
+        "id": "hamster_youtube_channel",
+        "name": "Hamster YouTube Channel",
+        "section": "Specials"
+    },
+    {
+        "id": "hamster_youtube_gold_button",
+        "name": "YouTube Gold Button",
+        "section": "Specials"
+    },
+    {
+        "id": "web3_academy_launch",
+        "name": "Web3 academy launch",
+        "section": "Specials"
+    },
+    {
+        "id": "lambo_for_ceo",
+        "name": "Lambo for a Hamster CEO",
+        "section": "Specials"
+    },
+    {
+        "id": "consensys_piranja_pass",
+        "name": "Consensus Piranha Pass",
+        "section": "Specials"
+    },
+    {
+        "id": "partner_announce",
+        "name": "TON + Hamster Kombat = Success",
+        "section": "Specials"
+    },
+    {
+        "id": "football_club_winner",
+        "name": "Your partner football club is a winner",
+        "section": "Specials"
+    },
+    {
+        "id": "hamster_drop",
+        "name": "Hamster Kombat merch",
+        "section": "Specials"
+    },
+    {
+        "id": "premarket_launch",
+        "name": "Premarket Launch",
+        "section": "Specials"
+    },
+    {
+        "id": "tg_leaders",
+        "name": "TG Leaders",
+        "section": "Specials"
+    },
+    {
+        "id": "youtube_25_million",
+        "name": "YouTube 25 Million",
+        "section": "Specials"
+    },
+    {
+        "id": "hamster_green_energy",
+        "name": "Hamster Green energy",
+        "section": "Specials"
+    },
+    {
+        "id": "twitter_10_million",
+        "name": "X Network 10 Million",
+        "section": "Specials"
+    },
+    {
+        "id": "web3_game_con",
+        "name": "Web3 Game Con",
+        "section": "Specials"
+    },
+    {
+        "id": "hamster_break_records",
+        "name": "Hamsters break records",
+        "section": "Specials"
+    },
+    {
+        "id": "sports_integration",
+        "name": "Sports integration",
+        "section": "Specials"
+    },
+    {
+        "id": "sports_integration_0207",
+        "name": "Sports integration",
+        "section": "Specials"
+    }
+]
