@@ -180,7 +180,7 @@
         "section": "Markets"
     },
     {
-        "id": "defi2.0_tokens",
+        "id": "defi20_tokens",
         "name": "Defi2.0 tokens",
         "section": "Markets"
     },
@@ -572,6 +572,16 @@
     {
         "id": "sports_integration_0207",
         "name": "Sports integration",
+        "section": "Specials"
+    },
+    {
+        "id": "sports_integration_0507",
+        "name": "Sports integration",
+        "section": "Specials"
+    },
+    {
+        "id": "cx_hub_istanbul",
+        "name": "CX Hub Istanbul",
         "section": "Specials"
     }
 ]
