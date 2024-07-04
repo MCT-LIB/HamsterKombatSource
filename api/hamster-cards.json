@@ -583,5 +583,10 @@
         "id": "cx_hub_istanbul",
         "name": "CX Hub Istanbul",
         "section": "Specials"
+    },
+    {
+        "id": "riyadh_masters_2024",
+        "name": "Riyadh Masters 2024",
+        "section": "Specials"
     }
 ]
