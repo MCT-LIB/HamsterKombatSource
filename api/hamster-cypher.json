@@ -1,19 +1,19 @@
 [
     {
         "letter": "a",
-        "cypher": ".-"
+        "cypher": "._"
     },
     {
         "letter": "b",
-        "cypher": "-..."
+        "cypher": "_..."
     },
     {
         "letter": "c",
-        "cypher": "-.-."
+        "cypher": "_._."
     },
     {
         "letter": "d",
-        "cypher": "-.."
+        "cypher": "_.."
     },
     {
         "letter": "e",
@@ -21,11 +21,11 @@
     },
     {
         "letter": "f",
-        "cypher": "..-."
+        "cypher": ".._."
     },
     {
         "letter": "g",
-        "cypher": "--."
+        "cypher": "__."
     },
     {
         "letter": "h",
@@ -37,39 +37,39 @@
     },
     {
         "letter": "j",
-        "cypher": ".---"
+        "cypher": ".___"
     },
     {
         "letter": "k",
-        "cypher": "-.-"
+        "cypher": "_._"
     },
     {
         "letter": "l",
-        "cypher": ".-.."
+        "cypher": "._.."
     },
     {
         "letter": "m",
-        "cypher": "--"
+        "cypher": "__"
     },
     {
         "letter": "n",
-        "cypher": "-."
+        "cypher": "_."
     },
     {
         "letter": "o",
-        "cypher": "---"
+        "cypher": "___"
     },
     {
         "letter": "p",
-        "cypher": ".--."
+        "cypher": ".__."
     },
     {
         "letter": "q",
-        "cypher": "--.-"
+        "cypher": "__._"
     },
     {
         "letter": "r",
-        "cypher": ".-."
+        "cypher": "._."
     },
     {
         "letter": "s",
@@ -77,51 +77,51 @@
     },
     {
         "letter": "t",
-        "cypher": "-"
+        "cypher": "_"
     },
     {
         "letter": "u",
-        "cypher": "..-"
+        "cypher": ".._"
     },
     {
         "letter": "v",
-        "cypher": "...-"
+        "cypher": "..._"
     },
     {
         "letter": "w",
-        "cypher": ".--"
+        "cypher": ".__"
     },
     {
         "letter": "x",
-        "cypher": "-..-"
+        "cypher": "_.._"
     },
     {
         "letter": "y",
-        "cypher": "-.--"
+        "cypher": "_.__"
     },
     {
         "letter": "z",
-        "cypher": "--.."
+        "cypher": "__.."
     },
     {
         "letter": "0",
-        "cypher": "-----"
+        "cypher": "_____"
     },
     {
         "letter": "1",
-        "cypher": ".----"
+        "cypher": ".____"
     },
     {
         "letter": "2",
-        "cypher": "..---"
+        "cypher": "..___"
     },
     {
         "letter": "3",
-        "cypher": "...--"
+        "cypher": "...__"
     },
     {
         "letter": "4",
-        "cypher": "....-"
+        "cypher": "...._"
     },
     {
         "letter": "5",
@@ -129,18 +129,18 @@
     },
     {
         "letter": "6",
-        "cypher": "-...."
+        "cypher": "_...."
     },
     {
         "letter": "7",
-        "cypher": "--..."
+        "cypher": "__..."
     },
     {
         "letter": "8",
-        "cypher": "---.."
+        "cypher": "___.."
     },
     {
         "letter": "9",
-        "cypher": "----."
+        "cypher": "____."
     }
 ]
