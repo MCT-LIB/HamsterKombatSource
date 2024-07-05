@@ -150,6 +150,11 @@
         "section": "PR&Team"
     },
     {
+        "id": "data_center_tokyo",
+        "name": "Data Center Tokyo",
+        "section": "PR&Team"
+    },
+    {
         "id": "fan_tokens",
         "name": "Fan tokens",
         "section": "Markets"
