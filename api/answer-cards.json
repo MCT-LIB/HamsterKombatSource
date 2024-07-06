@@ -1,5 +1,13 @@
 [
     {
+        "date": "07-07-2024",
+        "answer": [
+            "sports_integration_0707",
+            "licence_europe",
+            "staking"
+        ]
+    },
+    {
         "date": "06-07-2024",
         "answer": [
             "sports_integration_0607",
@@ -45,14 +53,6 @@
             "tg_leaders",
             "kyb",
             "tokenomics_expert"
-        ]
-    },
-    {
-        "date": "30-06-2024",
-        "answer": [
-            "blocking_suspicious_accounts",
-            "compliance_officer",
-            "youtube_25_million"
         ]
     }
 ]
