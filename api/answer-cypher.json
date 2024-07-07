@@ -1,5 +1,9 @@
 [
     {
+        "date": "07-07-2024",
+        "answer": "FIAT"
+    },
+    {
         "date": "06-07-2024",
         "answer": "BURN"
     },
@@ -22,9 +26,5 @@
     {
         "date": "01-07-2024",
         "answer": "LEDGER"
-    },
-    {
-        "date": "30-06-2024",
-        "answer": "PROOF"
     }
 ]
