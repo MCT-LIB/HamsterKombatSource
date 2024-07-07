@@ -1,5 +1,13 @@
 [
     {
+        "date": "08-07-2024",
+        "answer": [
+            "ceo_21m",
+            "leaderboards",
+            "nft_collection_launch"
+        ]
+    },
+    {
         "date": "07-07-2024",
         "answer": [
             "sports_integration_0707",
@@ -45,14 +53,6 @@
             "sports_integration",
             "hamster_youtube_gold_button",
             "hamster_youtube_channel"
-        ]
-    },
-    {
-        "date": "01-07-2024",
-        "answer": [
-            "tg_leaders",
-            "kyb",
-            "tokenomics_expert"
         ]
     }
 ]

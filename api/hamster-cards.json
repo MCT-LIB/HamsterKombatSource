@@ -155,6 +155,11 @@
         "section": "PR&Team"
     },
     {
+        "id": "leaderboards",
+        "name": "Leaderboards",
+        "section": "PR&Team"
+    },
+    {
         "id": "fan_tokens",
         "name": "Fan tokens",
         "section": "Markets"
