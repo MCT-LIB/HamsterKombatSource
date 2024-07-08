@@ -608,5 +608,10 @@
         "id": "sports_integration_0707",
         "name": "Quaterfinals are coming",
         "section": "Specials"
+    },
+    {
+        "id": "sports_integration_0807",
+        "name": "Only 4 best left",
+        "section": "Specials"
     }
 ]

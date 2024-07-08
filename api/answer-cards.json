@@ -1,5 +1,13 @@
 [
     {
+        "date": "09-07-2024",
+        "answer": [
+            "sports_integration_0807",
+            "top10_global",
+            "security_team"
+        ]
+    },
+    {
         "date": "08-07-2024",
         "answer": [
             "ceo",
@@ -45,14 +53,6 @@
             "sports_integration_0207",
             "instagram",
             "trading_bots"
-        ]
-    },
-    {
-        "date": "02-07-2024",
-        "answer": [
-            "sports_integration",
-            "hamster_youtube_gold_button",
-            "hamster_youtube_channel"
         ]
     }
 ]
