@@ -375,6 +375,11 @@
         "section": "Legal"
     },
     {
+        "id": "dex",
+        "name": "DEX",
+        "section": "Web3"
+    },
+    {
         "id": "usdt_on_ton",
         "name": "USDT on TON",
         "section": "Specials"
@@ -612,6 +617,11 @@
     {
         "id": "sports_integration_0807",
         "name": "Only 4 best left",
+        "section": "Specials"
+    },
+    {
+        "id": "sports_integration_0907",
+        "name": "Semi-final Spain vs France",
         "section": "Specials"
     }
 ]

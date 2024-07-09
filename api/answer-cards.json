@@ -1,5 +1,13 @@
 [
     {
+        "date": "10-07-2024",
+        "answer": [
+            "sports_integration_0907",
+            "dex",
+            "tg_leaders"
+        ]
+    },
+    {
         "date": "09-07-2024",
         "answer": [
             "sports_integration_0807",
@@ -45,14 +53,6 @@
             "sec_transparancy",
             "gamefi_tokens",
             "web3_game_con"
-        ]
-    },
-    {
-        "date": "03-07-2024",
-        "answer": [
-            "sports_integration_0207",
-            "instagram",
-            "trading_bots"
         ]
     }
 ]
