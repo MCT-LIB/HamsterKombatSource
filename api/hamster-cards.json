@@ -385,6 +385,11 @@
         "section": "Web3"
     },
     {
+        "id": "vesting_smartcontracts",
+        "name": "Vesting Smartcontracts",
+        "section": "Web3"
+    },
+    {
         "id": "usdt_on_ton",
         "name": "USDT on TON",
         "section": "Specials"
