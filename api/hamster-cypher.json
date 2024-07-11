@@ -142,5 +142,45 @@
     {
         "letter": "9",
         "cypher": "____."
+    },
+    {
+        "letter": "!",
+        "cypher": "_._.__"
+    },
+    {
+        "letter": "?",
+        "cypher": "..__.."
+    },
+    {
+        "letter": ".",
+        "cypher": "._._._"
+    },
+    {
+        "letter": ",",
+        "cypher": "__..__"
+    },
+    {
+        "letter": ";",
+        "cypher": "_._._."
+    },
+    {
+        "letter": ":",
+        "cypher": "___..."
+    },
+    {
+        "letter": "+",
+        "cypher": "._._."
+    },
+    {
+        "letter": "_",
+        "cypher": "_...._"
+    },
+    {
+        "letter": "/",
+        "cypher": "_.._."
+    },
+    {
+        "letter": "=",
+        "cypher": "_..._"
     }
 ]
