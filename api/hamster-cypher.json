@@ -144,10 +144,6 @@
         "cypher": "____."
     },
     {
-        "letter": "!",
-        "cypher": "_._.__"
-    },
-    {
         "letter": "?",
         "cypher": "..__.."
     },
@@ -168,12 +164,16 @@
         "cypher": "___..."
     },
     {
+        "letter": "!",
+        "cypher": "_._.__"
+    },
+    {
         "letter": "+",
         "cypher": "._._."
     },
     {
-        "letter": "_",
-        "cypher": "_...._"
+        "letter": "-",
+        "cypher": "-....-"
     },
     {
         "letter": "/",
