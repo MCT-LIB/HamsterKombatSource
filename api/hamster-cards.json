@@ -380,6 +380,11 @@
         "section": "Web3"
     },
     {
+        "id": "oracle",
+        "name": "Oracle",
+        "section": "Web3"
+    },
+    {
         "id": "usdt_on_ton",
         "name": "USDT on TON",
         "section": "Specials"
@@ -622,6 +627,16 @@
     {
         "id": "sports_integration_0907",
         "name": "Semi-final Spain vs France",
+        "section": "Specials"
+    },
+    {
+        "id": "sports_integration_1007",
+        "name": "Semi-final England vs Netherlands",
+        "section": "Specials"
+    },
+    {
+        "id": "adv_integration_0907",
+        "name": "Percussion taps",
         "section": "Specials"
     }
 ]

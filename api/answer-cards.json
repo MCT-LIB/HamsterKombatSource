@@ -1,5 +1,13 @@
 [
     {
+        "date": "11-07-2024",
+        "answer": [
+            "margin_trading_x30",
+            "oracle",
+            "sports_integration_1007"
+        ]
+    },
+    {
         "date": "10-07-2024",
         "answer": [
             "sports_integration_0907",
@@ -45,14 +53,6 @@
             "riyadh_masters_2024",
             "cx_hub_istanbul",
             "ux_ui_team"
-        ]
-    },
-    {
-        "date": "04-07-2024",
-        "answer": [
-            "sec_transparancy",
-            "gamefi_tokens",
-            "web3_game_con"
         ]
     }
 ]
