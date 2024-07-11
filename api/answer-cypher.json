@@ -1,5 +1,9 @@
 [
     {
+        "date": "11-07-2024",
+        "answer": "WHALE"
+    },
+    {
         "date": "10-07-2024",
         "answer": "GAS"
     },
@@ -22,9 +26,5 @@
     {
         "date": "05-07-2024",
         "answer": "STAKE"
-    },
-    {
-        "date": "04-07-2024",
-        "answer": "ORACLE"
     }
 ]
