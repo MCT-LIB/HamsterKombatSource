@@ -390,6 +390,11 @@
         "section": "Web3"
     },
     {
+        "id": "launchpad",
+        "name": "Launchpad",
+        "section": "Web3"
+    },
+    {
         "id": "usdt_on_ton",
         "name": "USDT on TON",
         "section": "Specials"
