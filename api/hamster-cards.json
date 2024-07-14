@@ -395,6 +395,11 @@
         "section": "Web3"
     },
     {
+        "id": "nft_marketplace",
+        "name": "NFT Marketplace",
+        "section": "Web3"
+    },
+    {
         "id": "usdt_on_ton",
         "name": "USDT on TON",
         "section": "Specials"
@@ -647,6 +652,11 @@
     {
         "id": "adv_integration_0907",
         "name": "Percussion taps",
+        "section": "Specials"
+    },
+    {
+        "id": "adv_integration_1307",
+        "name": "250M Hamster players",
         "section": "Specials"
     }
 ]

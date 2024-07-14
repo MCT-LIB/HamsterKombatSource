@@ -1,5 +1,13 @@
 [
     {
+        "date": "14-07-2024",
+        "answer": [
+            "security_team",
+            "prediction_markets",
+            "nft_marketplace"
+        ]
+    },
+    {
         "date": "13-07-2024",
         "answer": [
             "special_hamster_conference",
@@ -45,14 +53,6 @@
             "ceo",
             "leaderboards",
             "nft_collection_launch"
-        ]
-    },
-    {
-        "date": "07-07-2024",
-        "answer": [
-            "sports_integration_0707",
-            "licence_europe",
-            "staking"
         ]
     }
 ]
