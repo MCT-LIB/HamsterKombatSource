@@ -1,5 +1,13 @@
 [
     {
+        "date": "15-07-2024",
+        "answer": [
+            "sports_integration_1407",
+            "youtube",
+            "anti_money_loundering"
+        ]
+    },
+    {
         "date": "14-07-2024",
         "answer": [
             "security_team",
@@ -45,14 +53,6 @@
             "sports_integration_0807",
             "top10_global",
             "security_team"
-        ]
-    },
-    {
-        "date": "08-07-2024",
-        "answer": [
-            "ceo",
-            "leaderboards",
-            "nft_collection_launch"
         ]
     }
 ]

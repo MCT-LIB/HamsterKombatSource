@@ -658,5 +658,15 @@
         "id": "adv_integration_1307",
         "name": "250M Hamster players",
         "section": "Specials"
+    },
+    {
+        "id": "sports_integration_1407",
+        "name": "Final England vs Spain",
+        "section": "Specials"
+    },
+    {
+        "id": "business_jet",
+        "name": "Business jet",
+        "section": "Specials"
     }
 ]
