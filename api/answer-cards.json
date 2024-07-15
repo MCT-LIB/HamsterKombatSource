@@ -1,5 +1,13 @@
 [
     {
+        "date": "16-07-2024",
+        "answer": [
+            "call_btc_rise",
+            "product_team",
+            "eth_pairs"
+        ]
+    },
+    {
         "date": "15-07-2024",
         "answer": [
             "sports_integration_1407",
@@ -45,14 +53,6 @@
             "sports_integration_0907",
             "dex",
             "tg_leaders"
-        ]
-    },
-    {
-        "date": "09-07-2024",
-        "answer": [
-            "sports_integration_0807",
-            "top10_global",
-            "security_team"
         ]
     }
 ]

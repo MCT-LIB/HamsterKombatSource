@@ -668,5 +668,10 @@
         "id": "business_jet",
         "name": "Business jet",
         "section": "Specials"
+    },
+    {
+        "id": "call_btc_rise",
+        "name": "Call for BTC to rise",
+        "section": "Specials"
     }
 ]
