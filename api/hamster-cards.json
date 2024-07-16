@@ -673,5 +673,10 @@
         "id": "call_btc_rise",
         "name": "Call for BTC to rise",
         "section": "Specials"
+    },
+    {
+        "id": "rolex_soulmate",
+        "name": "Rolex for soulmate",
+        "section": "Specials"
     }
 ]
