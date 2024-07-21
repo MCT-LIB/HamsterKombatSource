@@ -678,5 +678,30 @@
         "id": "rolex_soulmate",
         "name": "Rolex for soulmate",
         "section": "Specials"
+    },
+    {
+        "id": "appstore_launch",
+        "name": "HamsterStore launch",
+        "section": "Specials"
+    },
+    {
+        "id": "fight_fight",
+        "name": "Fight fight fight",
+        "section": "Specials"
+    },
+    {
+        "id": "telegram_50m",
+        "name": "50M Telegram channel",
+        "section": "Specials"
+    },
+    {
+        "id": "google_analytics",
+        "name": "Hamster Analytics",
+        "section": "Specials"
+    },
+    {
+        "id": "session_australia",
+        "name": "Strategic session in Australia",
+        "section": "Specials"
     }
 ]
