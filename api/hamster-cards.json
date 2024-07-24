@@ -630,6 +630,11 @@
         "section": "Specials"
     },
     {
+        "id": "telegram_miniapp_launch",
+        "name": "Telegram Miniapp Launch",
+        "section": "Specials"
+    },
+    {
         "id": "tg_leaders",
         "name": "TG Leaders",
         "section": "Specials"
