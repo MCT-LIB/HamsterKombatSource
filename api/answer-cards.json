@@ -1,5 +1,13 @@
 [
   {
+    "date": "2024-07-25",
+    "answer": [
+      "telegram_miniapp_launch",
+      "youtube_gold_button",
+      "villa_for_the_dev_team"
+    ]
+  },
+  {
     "date": "2024-07-24",
     "answer": [
       "mini_game",
@@ -45,14 +53,6 @@
       "telegram_50m",
       "top10_global",
       "web3_academy_launch"
-    ]
-  },
-  {
-    "date": "2024-07-18",
-    "answer": [
-      "tg_leaders",
-      "nft_collection_launch",
-      "appstore_launch"
     ]
   }
 ]
