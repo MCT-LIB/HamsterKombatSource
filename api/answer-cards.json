@@ -1,5 +1,13 @@
 [
   {
+    "date": "2024-07-26",
+    "answer": [
+      "kamala_calling",
+      "bitcoin_conference_2024",
+      "telegram_stars_integration"
+    ]
+  },
+  {
     "date": "2024-07-25",
     "answer": [
       "telegram_miniapp_launch",
@@ -45,14 +53,6 @@
       "google_analytics",
       "security_audition",
       "medium"
-    ]
-  },
-  {
-    "date": "2024-07-19",
-    "answer": [
-      "telegram_50m",
-      "top10_global",
-      "web3_academy_launch"
     ]
   }
 ]
