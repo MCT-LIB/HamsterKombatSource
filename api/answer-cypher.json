@@ -1,5 +1,9 @@
 [
   {
+    "date": "2024-07-25",
+    "answer": "AUDIT"
+  },
+  {
     "date": "2024-07-24",
     "answer": "HODL"
   },
@@ -22,9 +26,5 @@
   {
     "date": "2024-07-19",
     "answer": "ALPHA"
-  },
-  {
-    "date": "2024-07-18",
-    "answer": "YIELD"
   }
 ]
