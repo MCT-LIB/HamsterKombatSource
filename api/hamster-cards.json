@@ -400,6 +400,11 @@
         "section": "Specials"
     },
     {
+        "id": "bitcoin_conference_2024",
+        "name": "Bitcoin Conference 2024",
+        "section": "Specials"
+    },
+    {
         "id": "bitcoin_pizza_day",
         "name": "Bitcoin Pizza Day",
         "section": "Specials"
@@ -637,11 +642,6 @@
     {
         "id": "telegram_miniapp_launch",
         "name": "Telegram Miniapp Launch",
-        "section": "Specials"
-    },
-    {
-        "id": "telegram_stars_integration",
-        "name": "Telegram Stars integration",
         "section": "Specials"
     },
     {
