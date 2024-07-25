@@ -645,6 +645,11 @@
         "section": "Specials"
     },
     {
+        "id": "telegram_stars_integration",
+        "name": "Telegram Stars integration",
+        "section": "Specials"
+    },
+    {
         "id": "tg_leaders",
         "name": "TG Leaders",
         "section": "Specials"
