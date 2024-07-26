@@ -390,11 +390,6 @@
         "section": "Specials"
     },
     {
-        "id": "adv_integration_2607",
-        "name": "The water is clear",
-        "section": "Specials"
-    },
-    {
         "id": "apps_center_listing",
         "name": "Apps Center Listing",
         "section": "Specials"
@@ -702,6 +697,11 @@
     {
         "id": "web3_game_con",
         "name": "Web3 Game Con",
+        "section": "Specials"
+    },
+    {
+        "id": "welcome_to_ogames",
+        "name": "Carry it like it\u2019s hot",
         "section": "Specials"
     },
     {
