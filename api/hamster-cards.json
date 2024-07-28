@@ -725,6 +725,11 @@
         "section": "Web3"
     },
     {
+        "id": "grant_developers",
+        "name": "Grant for Developers",
+        "section": "Web3"
+    },
+    {
         "id": "launchpad",
         "name": "Launchpad",
         "section": "Web3"
