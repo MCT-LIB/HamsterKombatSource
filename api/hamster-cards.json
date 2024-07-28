@@ -515,6 +515,11 @@
         "section": "Specials"
     },
     {
+        "id": "hamsterbank",
+        "name": "HamsterBank",
+        "section": "Specials"
+    },
+    {
         "id": "joe_rogan_podcast",
         "name": "Joe Roogan Podcast",
         "section": "Specials"
@@ -717,11 +722,6 @@
     {
         "id": "dex",
         "name": "DEX",
-        "section": "Web3"
-    },
-    {
-        "id": "grant_developers",
-        "name": "Grant for Developers",
         "section": "Web3"
     },
     {
