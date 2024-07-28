@@ -1,5 +1,13 @@
 [
   {
+    "date": "2024-07-28",
+    "answer": "TICKER"
+  },
+  {
+    "date": "2024-07-27",
+    "answer": "GENESIS"
+  },
+  {
     "date": "2024-07-26",
     "answer": "FLASH"
   },
@@ -18,13 +26,5 @@
   {
     "date": "2024-07-22",
     "answer": "LOCKER"
-  },
-  {
-    "date": "2024-07-21",
-    "answer": "REWARD"
-  },
-  {
-    "date": "2024-07-20",
-    "answer": "BEACON"
   }
 ]
