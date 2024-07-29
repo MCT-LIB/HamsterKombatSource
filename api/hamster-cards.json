@@ -740,6 +740,11 @@
         "section": "Web3"
     },
     {
+        "id": "nft_metaverse",
+        "name": "NFT Metaverse",
+        "section": "Web3"
+    },
+    {
         "id": "oracle",
         "name": "Oracle",
         "section": "Web3"
