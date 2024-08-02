@@ -1,10 +1,50 @@
 [
   {
+    "date": "2024-08-03",
+    "answer": [
+      "influencers",
+      "compliance_officer",
+      "antihacking_shield"
+    ]
+  },
+  {
+    "date": "2024-08-02",
+    "answer": [
+      "top10_global",
+      "twitter_10_million",
+      "adv_integration_3107"
+    ]
+  },
+  {
+    "date": "2024-08-01",
+    "answer": [
+      "anonymous_transactions_ban",
+      "hamster_youtube_gold_button",
+      "tokenomics_expert"
+    ]
+  },
+  {
+    "date": "2024-07-31",
+    "answer": [
+      "welcome_to_ogames",
+      "crypto_farming",
+      "fan_tokens"
+    ]
+  },
+  {
+    "date": "2024-07-30",
+    "answer": [
+      "nft_metaverse",
+      "hamster_green_energy",
+      "nft_collection_launch"
+    ]
+  },
+  {
     "date": "2024-07-29",
     "answer": [
       "web3_academy_launch",
       "apps_center_listing",
-      "grant_for_developers"
+      "grant_developers"
     ]
   },
   {
@@ -13,46 +53,6 @@
       "hamsterbank",
       "usdt_on_ton",
       "top10_global"
-    ]
-  },
-  {
-    "date": "2024-07-27",
-    "answer": [
-      "twitter_10_million",
-      "hamster_drop",
-      "special_hamster_conference"
-    ]
-  },
-  {
-    "date": "2024-07-26",
-    "answer": [
-      "kamala_calling",
-      "bitcoin_conference_2024",
-      "telegram_stars_integration"
-    ]
-  },
-  {
-    "date": "2024-07-25",
-    "answer": [
-      "telegram_miniapp_launch",
-      "hamster_youtube_gold_button",
-      "villa_for_dev_team"
-    ]
-  },
-  {
-    "date": "2024-07-24",
-    "answer": [
-      "mini_game",
-      "hamster_youtube_channel",
-      "bitcoin_pizza_day"
-    ]
-  },
-  {
-    "date": "2024-07-23",
-    "answer": [
-      "youtube",
-      "fight_fight",
-      "long_squeeze"
     ]
   }
 ]
