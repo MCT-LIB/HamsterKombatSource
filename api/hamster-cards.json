@@ -755,6 +755,11 @@
         "section": "Web3"
     },
     {
+        "id": "sport_marketplace",
+        "name": "Sport Collectibles Marketplace",
+        "section": "Web3"
+    },
+    {
         "id": "vesting_smartcontracts",
         "name": "Vesting Smartcontracts",
         "section": "Web3"
