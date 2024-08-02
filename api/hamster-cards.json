@@ -745,6 +745,11 @@
         "section": "Web3"
     },
     {
+        "id": "market_making",
+        "name": "Market Making",
+        "section": "Web3"
+    },
+    {
         "id": "nft_marketplace",
         "name": "NFT Marketplace",
         "section": "Web3"
