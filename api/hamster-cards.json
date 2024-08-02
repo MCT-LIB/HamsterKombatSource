@@ -395,6 +395,11 @@
         "section": "Specials"
     },
     {
+        "id": "adv_integration_3107",
+        "name": "This is fine",
+        "section": "Specials"
+    },
+    {
         "id": "apps_center_listing",
         "name": "Apps Center Listing",
         "section": "Specials"
@@ -457,11 +462,6 @@
     {
         "id": "dubai_office",
         "name": "Dubai office",
-        "section": "Specials"
-    },
-    {
-        "id": "ethereum_bd",
-        "name": "Ethereum birthday",
         "section": "Specials"
     },
     {
