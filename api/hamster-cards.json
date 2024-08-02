@@ -740,6 +740,11 @@
         "section": "Web3"
     },
     {
+        "id": "market_making",
+        "name": "Market Making",
+        "section": "Web3"
+    },
+    {
         "id": "nft_marketplace",
         "name": "NFT Marketplace",
         "section": "Web3"
@@ -752,11 +757,6 @@
     {
         "id": "oracle",
         "name": "Oracle",
-        "section": "Web3"
-    },
-    {
-        "id": "sport_marketplace",
-        "name": "Sport Collectibles Marketplace",
         "section": "Web3"
     },
     {
