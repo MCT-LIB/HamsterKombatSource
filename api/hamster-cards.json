@@ -720,6 +720,11 @@
         "section": "Specials"
     },
     {
+        "id": "crypto_farming",
+        "name": "Crypto Farming",
+        "section": "Web3"
+    },
+    {
         "id": "dex",
         "name": "DEX",
         "section": "Web3"
