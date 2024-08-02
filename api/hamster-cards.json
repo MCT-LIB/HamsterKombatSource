@@ -750,11 +750,6 @@
         "section": "Web3"
     },
     {
-        "id": "market_making",
-        "name": "Market Making",
-        "section": "Web3"
-    },
-    {
         "id": "nft_marketplace",
         "name": "NFT Marketplace",
         "section": "Web3"
@@ -777,6 +772,11 @@
     {
         "id": "vesting_smartcontracts",
         "name": "Vesting Smartcontracts",
+        "section": "Web3"
+    },
+    {
+        "id": "web3_advertising",
+        "name": "Web3 Advertising Platform",
         "section": "Web3"
     }
 ]
