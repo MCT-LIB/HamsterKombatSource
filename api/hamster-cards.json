@@ -465,6 +465,11 @@
         "section": "Specials"
     },
     {
+        "id": "ethereum_bd",
+        "name": "Ethereum birthday",
+        "section": "Specials"
+    },
+    {
         "id": "fight_fight",
         "name": "Fight fight fight",
         "section": "Specials"
@@ -767,11 +772,6 @@
     {
         "id": "vesting_smartcontracts",
         "name": "Vesting Smartcontracts",
-        "section": "Web3"
-    },
-    {
-        "id": "web3_advertising",
-        "name": "Web3 Advertising Platform",
         "section": "Web3"
     }
 ]
