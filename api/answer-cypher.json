@@ -1,30 +1,30 @@
 [
-  {
-    "date": "2024-08-03",
-    "answer": "SHARDS"
-  },
-  {
-    "date": "2024-08-02",
-    "answer": "RELAY"
-  },
-  {
-    "date": "2024-08-01",
-    "answer": "VAULT"
-  },
-  {
-    "date": "2024-07-31",
-    "answer": "ICO"
-  },
-  {
-    "date": "2024-07-30",
-    "answer": "ATOMIC"
-  },
-  {
-    "date": "2024-07-29",
-    "answer": "BRIDGE"
-  },
-  {
-    "date": "2024-07-28",
-    "answer": "TICKER"
-  }
+    {
+        "date": "2024-08-04",
+        "answer": "SCRYPT"
+    },
+    {
+        "date": "2024-08-03",
+        "answer": "SHARDS"
+    },
+    {
+        "date": "2024-08-02",
+        "answer": "RELAY"
+    },
+    {
+        "date": "2024-08-01",
+        "answer": "VAULT"
+    },
+    {
+        "date": "2024-07-31",
+        "answer": "ICO"
+    },
+    {
+        "date": "2024-07-30",
+        "answer": "ATOMIC"
+    },
+    {
+        "date": "2024-07-29",
+        "answer": "BRIDGE"
+    }
 ]
