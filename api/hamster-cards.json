@@ -530,6 +530,11 @@
         "section": "Specials"
     },
     {
+        "id": "hamstergpt",
+        "name": "HamsterGPT",
+        "section": "Specials"
+    },
+    {
         "id": "joe_rogan_podcast",
         "name": "Joe Roogan Podcast",
         "section": "Specials"
