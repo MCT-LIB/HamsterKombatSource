@@ -1,5 +1,13 @@
 [
   {
+    "date": "2024-08-04",
+    "answer": [
+      "hamstergpt",
+      "two_factor_authentication",
+      "youtube_25_million"
+    ]
+  },
+  {
     "date": "2024-08-03",
     "answer": [
       "influencers",
@@ -45,14 +53,6 @@
       "web3_academy_launch",
       "apps_center_listing",
       "grant_developers"
-    ]
-  },
-  {
-    "date": "2024-07-28",
-    "answer": [
-      "hamsterbank",
-      "usdt_on_ton",
-      "top10_global"
     ]
   }
 ]
