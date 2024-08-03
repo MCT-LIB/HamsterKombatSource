@@ -1,5 +1,9 @@
 [
   {
+    "date": "2024-08-03",
+    "answer": "SHARDS"
+  },
+  {
     "date": "2024-08-02",
     "answer": "RELAY"
   },
@@ -22,9 +26,5 @@
   {
     "date": "2024-07-28",
     "answer": "TICKER"
-  },
-  {
-    "date": "2024-07-27",
-    "answer": "GENESIS"
   }
 ]
