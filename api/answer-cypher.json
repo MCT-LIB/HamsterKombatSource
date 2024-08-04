@@ -1,5 +1,9 @@
 [
     {
+        "date": "2024-08-05",
+        "answer": "SIGNER"
+    },
+    {
         "date": "2024-08-04",
         "answer": "SCRYPT"
     },
@@ -22,9 +26,5 @@
     {
         "date": "2024-07-30",
         "answer": "ATOMIC"
-    },
-    {
-        "date": "2024-07-29",
-        "answer": "BRIDGE"
     }
 ]
