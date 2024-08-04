@@ -1,5 +1,13 @@
 [
   {
+    "date": "2024-08-05",
+    "answer": [
+      "x",
+      "derivatives",
+      "defi20_tokens"
+    ]
+  },
+  {
     "date": "2024-08-04",
     "answer": [
       "hamstergpt",
@@ -45,14 +53,6 @@
       "nft_metaverse",
       "hamster_green_energy",
       "nft_collection_launch"
-    ]
-  },
-  {
-    "date": "2024-07-29",
-    "answer": [
-      "web3_academy_launch",
-      "apps_center_listing",
-      "grant_developers"
     ]
   }
 ]
