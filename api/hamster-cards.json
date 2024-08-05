@@ -605,6 +605,11 @@
         "section": "Specials"
     },
     {
+        "id": "sleeping_hamster",
+        "name": "Sleeping hamster",
+        "section": "Specials"
+    },
+    {
         "id": "special_hamster_conference",
         "name": "Special Hamster Conference",
         "section": "Specials"
