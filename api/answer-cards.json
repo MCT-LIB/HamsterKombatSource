@@ -1,58 +1,58 @@
 [
-  {
-    "date": "2024-08-05",
-    "answer": [
-      "x",
-      "derivatives",
-      "defi20_tokens"
-    ]
-  },
-  {
-    "date": "2024-08-04",
-    "answer": [
-      "hamstergpt",
-      "two_factor_authentication",
-      "youtube_25_million"
-    ]
-  },
-  {
-    "date": "2024-08-03",
-    "answer": [
-      "influencers",
-      "compliance_officer",
-      "antihacking_shield"
-    ]
-  },
-  {
-    "date": "2024-08-02",
-    "answer": [
-      "top10_global",
-      "twitter_10_million",
-      "adv_integration_3107"
-    ]
-  },
-  {
-    "date": "2024-08-01",
-    "answer": [
-      "anonymous_transactions_ban",
-      "hamster_youtube_gold_button",
-      "tokenomics_expert"
-    ]
-  },
-  {
-    "date": "2024-07-31",
-    "answer": [
-      "welcome_to_ogames",
-      "crypto_farming",
-      "fan_tokens"
-    ]
-  },
-  {
-    "date": "2024-07-30",
-    "answer": [
-      "nft_metaverse",
-      "hamster_green_energy",
-      "nft_collection_launch"
-    ]
-  }
+    {
+        "date": "2024-08-06",
+        "answer": [
+            "top_10_cmc_pairs",
+            "partner_announce",
+            "premarket_launch"
+        ]
+    },
+    {
+        "date": "2024-08-05",
+        "answer": [
+            "x",
+            "derivatives",
+            "defi20_tokens"
+        ]
+    },
+    {
+        "date": "2024-08-04",
+        "answer": [
+            "hamstergpt",
+            "two_factor_authentication",
+            "youtube_25_million"
+        ]
+    },
+    {
+        "date": "2024-08-03",
+        "answer": [
+            "influencers",
+            "compliance_officer",
+            "antihacking_shield"
+        ]
+    },
+    {
+        "date": "2024-08-02",
+        "answer": [
+            "top10_global",
+            "twitter_10_million",
+            "adv_integration_3107"
+        ]
+    },
+    {
+        "date": "2024-08-01",
+        "answer": [
+            "anonymous_transactions_ban",
+            "hamster_youtube_gold_button",
+            "tokenomics_expert"
+        ]
+    },
+    {
+        "date": "2024-07-31",
+        "answer": [
+            "welcome_to_ogames",
+            "crypto_farming",
+            "fan_tokens"
+        ]
+    }
 ]
