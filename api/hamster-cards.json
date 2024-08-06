@@ -540,6 +540,11 @@
         "section": "Specials"
     },
     {
+        "id": "healthy_hamster",
+        "name": "Healthy nutrition hamster",
+        "section": "Specials"
+    },
+    {
         "id": "joe_rogan_podcast",
         "name": "Joe Roogan Podcast",
         "section": "Specials"
