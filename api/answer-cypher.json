@@ -1,5 +1,9 @@
 [
     {
+        "date": "2024-08-07",
+        "answer": "CHAIN"
+    },
+    {
         "date": "2024-08-06",
         "answer": "BYTES"
     },
@@ -22,9 +26,5 @@
     {
         "date": "2024-08-01",
         "answer": "VAULT"
-    },
-    {
-        "date": "2024-07-31",
-        "answer": "ICO"
     }
 ]
