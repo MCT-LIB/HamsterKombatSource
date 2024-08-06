@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-07",
+        "answer": [
+            "top_10_cmc_pairs",
+            "partner_announce",
+            "premarket_launch"
+        ]
+    },
+    {
         "date": "2024-08-06",
         "answer": [
             "top_10_cmc_pairs",
@@ -45,14 +53,6 @@
             "anonymous_transactions_ban",
             "hamster_youtube_gold_button",
             "tokenomics_expert"
-        ]
-    },
-    {
-        "date": "2024-07-31",
-        "answer": [
-            "welcome_to_ogames",
-            "crypto_farming",
-            "fan_tokens"
         ]
     }
 ]
