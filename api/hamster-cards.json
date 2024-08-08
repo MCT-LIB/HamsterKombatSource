@@ -705,6 +705,11 @@
         "section": "Specials"
     },
     {
+        "id": "ton_listing",
+        "name": "TON listing on Binance",
+        "section": "Specials"
+    },
+    {
         "id": "top10_global",
         "name": "Top 10 Global Ranking",
         "section": "Specials"
