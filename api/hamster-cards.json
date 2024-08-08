@@ -725,6 +725,11 @@
         "section": "Specials"
     },
     {
+        "id": "university_hamster",
+        "name": "University hamster",
+        "section": "Specials"
+    },
+    {
         "id": "usdt_on_ton",
         "name": "USDT on TON",
         "section": "Specials"
