@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-10",
+        "answer": [
+            "shit_coins",
+            "university_hamster",
+            "usdt_on_ton"
+        ]
+    },
+    {
         "date": "2024-08-09",
         "answer": [
             "gym_hamster",
@@ -45,14 +53,6 @@
             "hamstergpt",
             "two_factor_authentication",
             "youtube_25_million"
-        ]
-    },
-    {
-        "date": "2024-08-03",
-        "answer": [
-            "influencers",
-            "compliance_officer",
-            "antihacking_shield"
         ]
     }
 ]
