@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-12",
+        "answer": [
+            "adv_integration_0908",
+            "hamster_helps_whales",
+            "licence_australia"
+        ]
+    },
+    {
         "date": "2024-08-11",
         "answer": [
             "hamster_green_energy",
@@ -45,14 +53,6 @@
             "top_10_cmc_pairs",
             "partner_announce",
             "premarket_launch"
-        ]
-    },
-    {
-        "date": "2024-08-05",
-        "answer": [
-            "x",
-            "derivatives",
-            "defi20_tokens"
         ]
     }
 ]
