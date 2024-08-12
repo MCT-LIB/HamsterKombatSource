@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-13",
+        "answer": [
+            "hamster_with_friends",
+            "medium",
+            "short_squeeze"
+        ]
+    },
+    {
         "date": "2024-08-12",
         "answer": [
             "adv_integration_0908",
@@ -45,14 +53,6 @@
             "bisdev_team",
             "hamster_youtube_channel",
             "sleeping_hamster"
-        ]
-    },
-    {
-        "date": "2024-08-06",
-        "answer": [
-            "top_10_cmc_pairs",
-            "partner_announce",
-            "premarket_launch"
         ]
     }
 ]
