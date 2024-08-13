@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-14",
+        "answer": [
+            "ceo",
+            "medium",
+            "nft_marketplace"
+        ]
+    },
+    {
         "date": "2024-08-13",
         "answer": [
             "hamster_with_friends",
@@ -45,14 +53,6 @@
             "hamster_youtube_gold_button",
             "healthy_hamster",
             "partnership_program"
-        ]
-    },
-    {
-        "date": "2024-08-07",
-        "answer": [
-            "bisdev_team",
-            "hamster_youtube_channel",
-            "sleeping_hamster"
         ]
     }
 ]
