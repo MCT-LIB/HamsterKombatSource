@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-18",
+        "answer": [
+            "dao",
+            "fan_tokens",
+            "telegram_miniapp_launch"
+        ]
+    },
+    {
         "date": "2024-08-17",
         "answer": [
             "layerzero_listing",
@@ -45,14 +53,6 @@
             "adv_integration_0908",
             "hamster_helps_whales",
             "licence_australia"
-        ]
-    },
-    {
-        "date": "2024-08-11",
-        "answer": [
-            "hamster_green_energy",
-            "licence_australia",
-            "vipassana_hamster"
         ]
     }
 ]
