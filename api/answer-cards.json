@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-19",
+        "answer": [
+            "anti_money_loundering",
+            "compliance_officer",
+            "trading_bots"
+        ]
+    },
+    {
         "date": "2024-08-18",
         "answer": [
             "dao",
@@ -45,14 +53,6 @@
             "hamster_with_friends",
             "medium",
             "short_squeeze"
-        ]
-    },
-    {
-        "date": "2024-08-12",
-        "answer": [
-            "adv_integration_0908",
-            "hamster_helps_whales",
-            "licence_australia"
         ]
     }
 ]
