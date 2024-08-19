@@ -1,5 +1,9 @@
 [
     {
+        "date": "2024-08-20",
+        "answer": "PLAY"
+    },
+    {
         "date": "2024-08-19",
         "answer": "KEYS"
     },
@@ -22,9 +26,5 @@
     {
         "date": "2024-08-14",
         "answer": "INCOME"
-    },
-    {
-        "date": "2024-08-13",
-        "answer": "POINTS"
     }
 ]
