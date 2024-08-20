@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-21",
+        "answer": [
+            "derivatives",
+            "hamsterbank",
+            "risk_management_team"
+        ]
+    },
+    {
         "date": "2024-08-19",
         "answer": [
             "anti_money_loundering",
@@ -45,14 +53,6 @@
             "ceo",
             "medium",
             "nft_marketplace"
-        ]
-    },
-    {
-        "date": "2024-08-13",
-        "answer": [
-            "hamster_with_friends",
-            "medium",
-            "short_squeeze"
         ]
     }
 ]
