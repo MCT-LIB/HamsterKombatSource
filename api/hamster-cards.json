@@ -470,6 +470,11 @@
         "section": "Specials"
     },
     {
+        "id": "company_planning",
+        "name": "Company development planning",
+        "section": "Specials"
+    },
+    {
         "id": "consensys_piranja_pass",
         "name": "Consensus Piranha Pass",
         "section": "Specials"
