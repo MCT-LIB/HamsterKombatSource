@@ -465,6 +465,11 @@
         "section": "Specials"
     },
     {
+        "id": "communication_mentor",
+        "name": "Communication with a mentor",
+        "section": "Specials"
+    },
+    {
         "id": "consensys_piranja_pass",
         "name": "Consensus Piranha Pass",
         "section": "Specials"
