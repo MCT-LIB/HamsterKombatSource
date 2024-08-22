@@ -605,6 +605,11 @@
         "section": "Specials"
     },
     {
+        "id": "negotiations_partners",
+        "name": "Negotiations with partners",
+        "section": "Specials"
+    },
+    {
         "id": "nft_collection_launch",
         "name": "NFT Collection Launch",
         "section": "Specials"
