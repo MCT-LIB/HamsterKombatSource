@@ -1,5 +1,9 @@
 [
     {
+        "date": "2024-08-23",
+        "answer": "CLONE"
+    },
+    {
         "date": "2024-08-22",
         "answer": "MERGE"
     },
@@ -22,9 +26,5 @@
     {
         "date": "2024-08-17",
         "answer": "ACHV"
-    },
-    {
-        "date": "2024-08-16",
-        "answer": "FRIENDS"
     }
 ]
