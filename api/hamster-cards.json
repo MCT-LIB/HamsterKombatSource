@@ -660,6 +660,11 @@
         "section": "Specials"
     },
     {
+        "id": "speaking_tv_show",
+        "name": "Speaking on a TV show",
+        "section": "Specials"
+    },
+    {
         "id": "special_hamster_conference",
         "name": "Special Hamster Conference",
         "section": "Specials"
