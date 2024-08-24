@@ -495,6 +495,11 @@
         "section": "Specials"
     },
     {
+        "id": "electric_car",
+        "name": "Electric car production",
+        "section": "Specials"
+    },
+    {
         "id": "ethereum_bd",
         "name": "Ethereum birthday",
         "section": "Specials"
