@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-25",
+        "answer": [
+            "appstore_launch",
+            "speaking_tv_show",
+            "tg_leaders"
+        ]
+    },
+    {
         "date": "2024-08-24",
         "answer": [
             "company_planning",
@@ -45,14 +53,6 @@
             "dao",
             "fan_tokens",
             "telegram_miniapp_launch"
-        ]
-    },
-    {
-        "date": "2024-08-17",
-        "answer": [
-            "layerzero_listing",
-            "marketing",
-            "partnership_program"
         ]
     }
 ]
