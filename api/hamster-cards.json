@@ -640,6 +640,11 @@
         "section": "Specials"
     },
     {
+        "id": "rocket_to_mars",
+        "name": "Launching a rocket to Mars",
+        "section": "Specials"
+    },
+    {
         "id": "rolex_soulmate",
         "name": "Rolex for soulmate",
         "section": "Specials"
