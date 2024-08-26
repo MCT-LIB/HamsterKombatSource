@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-27",
+        "answer": [
+            "electric_car",
+            "legal_opinion",
+            "youtube"
+        ]
+    },
+    {
         "date": "2024-08-25",
         "answer": [
             "appstore_launch",
@@ -45,14 +53,6 @@
             "anti_money_loundering",
             "compliance_officer",
             "trading_bots"
-        ]
-    },
-    {
-        "date": "2024-08-18",
-        "answer": [
-            "dao",
-            "fan_tokens",
-            "telegram_miniapp_launch"
         ]
     }
 ]
