@@ -815,6 +815,11 @@
         "section": "Specials"
     },
     {
+        "id": "vintage_cars",
+        "name": "Collection of vintage cars",
+        "section": "Specials"
+    },
+    {
         "id": "vipassana_hamster",
         "name": "Vipassana hamster",
         "section": "Specials"
