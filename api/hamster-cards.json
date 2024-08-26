@@ -525,6 +525,11 @@
         "section": "Specials"
     },
     {
+        "id": "free_durov",
+        "name": "Privacy is not a crime",
+        "section": "Specials"
+    },
+    {
         "id": "google_analytics",
         "name": "Hamster Analytics",
         "section": "Specials"
