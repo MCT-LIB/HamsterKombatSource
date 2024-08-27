@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-28",
+        "answer": [
+            "data_center_tokyo",
+            "nft_metaverse",
+            "rocket_to_mars"
+        ]
+    },
+    {
         "date": "2024-08-27",
         "answer": [
             "electric_car",
@@ -45,14 +53,6 @@
             "derivatives",
             "hamsterbank",
             "risk_management_team"
-        ]
-    },
-    {
-        "date": "2024-08-19",
-        "answer": [
-            "anti_money_loundering",
-            "compliance_officer",
-            "trading_bots"
         ]
     }
 ]
