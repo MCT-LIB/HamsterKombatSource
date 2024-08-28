@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-29",
+        "answer": [
+            "instagram",
+            "partner_announce",
+            "tokenomics_expert"
+        ]
+    },
+    {
         "date": "2024-08-28",
         "answer": [
             "data_center_tokyo",
@@ -45,14 +53,6 @@
             "hamster_youtube_channel",
             "licence_nigeria",
             "oracle"
-        ]
-    },
-    {
-        "date": "2024-08-20",
-        "answer": [
-            "derivatives",
-            "hamsterbank",
-            "risk_management_team"
         ]
     }
 ]
