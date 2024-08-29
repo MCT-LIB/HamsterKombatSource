@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-30",
+        "answer": [
+            "investments_in_farming",
+            "oracle",
+            "youtube"
+        ]
+    },
+    {
         "date": "2024-08-29",
         "answer": [
             "instagram",
@@ -45,14 +53,6 @@
             "ceo",
             "web3_academy_launch",
             "communication_mentor"
-        ]
-    },
-    {
-        "date": "2024-08-21",
-        "answer": [
-            "hamster_youtube_channel",
-            "licence_nigeria",
-            "oracle"
         ]
     }
 ]
