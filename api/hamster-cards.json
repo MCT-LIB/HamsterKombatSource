@@ -610,6 +610,11 @@
         "section": "Specials"
     },
     {
+        "id": "hiring_employees",
+        "name": "Hiring employees",
+        "section": "Specials"
+    },
+    {
         "id": "investments_in_farming",
         "name": "Investments in farming",
         "section": "Specials"
