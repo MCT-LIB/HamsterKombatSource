@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-08-31",
+        "answer": [
+            "appstore_launch",
+            "marketing",
+            "speaking_employees"
+        ]
+    },
+    {
         "date": "2024-08-30",
         "answer": [
             "investments_in_farming",
@@ -45,14 +53,6 @@
             "company_planning",
             "nft_collection_launch",
             "short_squeeze"
-        ]
-    },
-    {
-        "date": "2024-08-22",
-        "answer": [
-            "ceo",
-            "web3_academy_launch",
-            "communication_mentor"
         ]
     }
 ]
