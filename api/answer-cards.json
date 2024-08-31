@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-01",
+        "answer": [
+            "business_processes",
+            "medium",
+            "risk_management_team"
+        ]
+    },
+    {
         "date": "2024-08-31",
         "answer": [
             "appstore_launch",
@@ -45,14 +53,6 @@
             "appstore_launch",
             "speaking_tv_show",
             "tg_leaders"
-        ]
-    },
-    {
-        "date": "2024-08-24",
-        "answer": [
-            "company_planning",
-            "nft_collection_launch",
-            "short_squeeze"
         ]
     }
 ]
