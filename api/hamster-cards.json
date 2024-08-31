@@ -615,6 +615,11 @@
         "section": "Specials"
     },
     {
+        "id": "hotel_construction",
+        "name": "Hotel construction",
+        "section": "Specials"
+    },
+    {
         "id": "investments_in_farming",
         "name": "Investments in farming",
         "section": "Specials"
