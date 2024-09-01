@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-02",
+        "answer": [
+            "two_factor_authentication",
+            "vintage_cars",
+            "web3_integration"
+        ]
+    },
+    {
         "date": "2024-09-01",
         "answer": [
             "business_processes",
@@ -45,14 +53,6 @@
             "electric_car",
             "legal_opinion",
             "youtube"
-        ]
-    },
-    {
-        "date": "2024-08-25",
-        "answer": [
-            "appstore_launch",
-            "speaking_tv_show",
-            "tg_leaders"
         ]
     }
 ]
