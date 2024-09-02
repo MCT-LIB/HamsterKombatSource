@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-03",
+        "answer": [
+            "dex",
+            "gym_hamster",
+            "hiring_employees"
+        ]
+    },
+    {
         "date": "2024-09-02",
         "answer": [
             "two_factor_authentication",
@@ -45,14 +53,6 @@
             "data_center_tokyo",
             "nft_metaverse",
             "rocket_to_mars"
-        ]
-    },
-    {
-        "date": "2024-08-27",
-        "answer": [
-            "electric_car",
-            "legal_opinion",
-            "youtube"
         ]
     }
 ]
