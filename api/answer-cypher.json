@@ -1,5 +1,9 @@
 [
     {
+        "date": "2024-09-04",
+        "answer": "DEPOSIT"
+    },
+    {
         "date": "2024-09-03",
         "answer": "WITHDRAW"
     },
@@ -22,9 +26,5 @@
     {
         "date": "2024-08-29",
         "answer": "FIGHTY"
-    },
-    {
-        "date": "2024-08-28",
-        "answer": "MARTA"
     }
 ]
