@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-04",
+        "answer": [
+            "cx_hub_istanbul",
+            "hotel_construction",
+            "meme_coins"
+        ]
+    },
+    {
         "date": "2024-09-03",
         "answer": [
             "dex",
@@ -45,14 +53,6 @@
             "instagram",
             "partner_announce",
             "tokenomics_expert"
-        ]
-    },
-    {
-        "date": "2024-08-28",
-        "answer": [
-            "data_center_tokyo",
-            "nft_metaverse",
-            "rocket_to_mars"
         ]
     }
 ]
