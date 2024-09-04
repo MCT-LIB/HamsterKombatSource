@@ -640,6 +640,11 @@
         "section": "Specials"
     },
     {
+        "id": "largest_diamond",
+        "name": "Largest diamond",
+        "section": "Specials"
+    },
+    {
         "id": "long_squeeze",
         "name": "Long squeeze",
         "section": "Specials"
