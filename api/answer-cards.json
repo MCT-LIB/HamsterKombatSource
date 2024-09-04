@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-05",
+        "answer": [
+            "bitcoin_pizza_day",
+            "money_20_20",
+            "nft_metaverse"
+        ]
+    },
+    {
         "date": "2024-09-04",
         "answer": [
             "cx_hub_istanbul",
@@ -45,14 +53,6 @@
             "investments_in_farming",
             "oracle",
             "youtube"
-        ]
-    },
-    {
-        "date": "2024-08-29",
-        "answer": [
-            "instagram",
-            "partner_announce",
-            "tokenomics_expert"
         ]
     }
 ]
