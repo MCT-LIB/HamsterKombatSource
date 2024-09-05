@@ -805,6 +805,11 @@
         "section": "Specials"
     },
     {
+        "id": "telegram_top_ever",
+        "name": "Telegram top ever",
+        "section": "Specials"
+    },
+    {
         "id": "tg_leaders",
         "name": "TG Leaders",
         "section": "Specials"
