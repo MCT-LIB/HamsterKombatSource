@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-07",
+        "answer": [
+            "data_center_tokyo",
+            "margin_trading_x100",
+            "partnership_program"
+        ]
+    },
+    {
         "date": "2024-09-06",
         "answer": [
             "anti_money_loundering",
@@ -45,14 +53,6 @@
             "business_processes",
             "medium",
             "risk_management_team"
-        ]
-    },
-    {
-        "date": "2024-08-31",
-        "answer": [
-            "appstore_launch",
-            "marketing",
-            "speaking_employees"
         ]
     }
 ]
