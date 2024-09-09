@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-10",
+        "answer": [
+            "it_team",
+            "oracle",
+            "telegram_miniapp_launch"
+        ]
+    },
+    {
         "date": "2024-09-09",
         "answer": [
             "socialfi_tokens",
@@ -45,14 +53,6 @@
             "dex",
             "gym_hamster",
             "hiring_employees"
-        ]
-    },
-    {
-        "date": "2024-09-02",
-        "answer": [
-            "two_factor_authentication",
-            "vintage_cars",
-            "web3_integration"
         ]
     }
 ]
