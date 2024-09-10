@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-11",
+        "answer": [
+            "gym_hamster",
+            "influencers",
+            "vc_labs"
+        ]
+    },
+    {
         "date": "2024-09-10",
         "answer": [
             "it_team",
@@ -45,14 +53,6 @@
             "cx_hub_istanbul",
             "hotel_construction",
             "meme_coins"
-        ]
-    },
-    {
-        "date": "2024-09-03",
-        "answer": [
-            "dex",
-            "gym_hamster",
-            "hiring_employees"
         ]
     }
 ]
