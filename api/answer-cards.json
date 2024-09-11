@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-12",
+        "answer": [
+            "oracle",
+            "telegram_top_ever",
+            "web3_integration"
+        ]
+    },
+    {
         "date": "2024-09-11",
         "answer": [
             "gym_hamster",
@@ -45,14 +53,6 @@
             "bitcoin_pizza_day",
             "money_20_20",
             "nft_metaverse"
-        ]
-    },
-    {
-        "date": "2024-09-04",
-        "answer": [
-            "cx_hub_istanbul",
-            "hotel_construction",
-            "meme_coins"
         ]
     }
 ]
