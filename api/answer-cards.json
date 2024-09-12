@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-13",
+        "answer": [
+            "appstore_launch",
+            "margin_trading_x50",
+            "medium"
+        ]
+    },
+    {
         "date": "2024-09-12",
         "answer": [
             "oracle",
@@ -45,14 +53,6 @@
             "anti_money_loundering",
             "hamstergpt",
             "twitter_10_million"
-        ]
-    },
-    {
-        "date": "2024-09-05",
-        "answer": [
-            "bitcoin_pizza_day",
-            "money_20_20",
-            "nft_metaverse"
         ]
     }
 ]
