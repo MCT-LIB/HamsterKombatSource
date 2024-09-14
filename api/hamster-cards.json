@@ -490,6 +490,11 @@
         "section": "Specials"
     },
     {
+        "id": "bybit_listing",
+        "name": "Bybit listing",
+        "section": "Specials"
+    },
+    {
         "id": "call_btc_rise",
         "name": "Call for BTC to rise",
         "section": "Specials"
