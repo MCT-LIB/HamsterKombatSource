@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-15",
+        "answer": [
+            "binance_listing",
+            "bybit_listing",
+            "okx_listing"
+        ]
+    },
+    {
         "date": "2024-09-14",
         "answer": [
             "hamster_youtube_gold_button",
@@ -45,14 +53,6 @@
             "socialfi_tokens",
             "villa_for_dev_team",
             "youtube"
-        ]
-    },
-    {
-        "date": "2024-09-07",
-        "answer": [
-            "data_center_tokyo",
-            "margin_trading_x100",
-            "partnership_program"
         ]
     }
 ]
