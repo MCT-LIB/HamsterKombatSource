@@ -460,6 +460,11 @@
         "section": "Specials"
     },
     {
+        "id": "binance_listing",
+        "name": "Binance listing",
+        "section": "Specials"
+    },
+    {
         "id": "bitcoin_conference_2024",
         "name": "Bitcoin Conference 2024",
         "section": "Specials"
