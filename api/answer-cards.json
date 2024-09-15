@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-16",
+        "answer": [
+            "special_hamster_conference",
+            "telegram_miniapp_launch",
+            "twitter_10_million"
+        ]
+    },
+    {
         "date": "2024-09-15",
         "answer": [
             "binance_listing",
@@ -45,14 +53,6 @@
             "it_team",
             "oracle",
             "telegram_miniapp_launch"
-        ]
-    },
-    {
-        "date": "2024-09-09",
-        "answer": [
-            "socialfi_tokens",
-            "villa_for_dev_team",
-            "youtube"
         ]
     }
 ]
