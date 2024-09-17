@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-18",
+        "answer": [
+            "google_analytics",
+            "gym_hamster",
+            "nft_collection_launch"
+        ]
+    },
+    {
         "date": "2024-09-17",
         "answer": [
             "ceo",
@@ -45,14 +53,6 @@
             "oracle",
             "telegram_top_ever",
             "web3_integration"
-        ]
-    },
-    {
-        "date": "2024-09-11",
-        "answer": [
-            "gym_hamster",
-            "influencers",
-            "vc_labs"
         ]
     }
 ]
