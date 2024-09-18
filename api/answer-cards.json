@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-19",
+        "answer": [
+            "bisdev_team",
+            "facebook_ads",
+            "meme_coins"
+        ]
+    },
+    {
         "date": "2024-09-18",
         "answer": [
             "google_analytics",
@@ -45,14 +53,6 @@
             "appstore_launch",
             "margin_trading_x50",
             "medium"
-        ]
-    },
-    {
-        "date": "2024-09-12",
-        "answer": [
-            "oracle",
-            "telegram_top_ever",
-            "web3_integration"
         ]
     }
 ]
