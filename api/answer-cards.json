@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-20",
+        "answer": [
+            "compliance_officer",
+            "telegram_miniapp_launch",
+            "web3_integration"
+        ]
+    },
+    {
         "date": "2024-09-19",
         "answer": [
             "bisdev_team",
@@ -45,14 +53,6 @@
             "hamster_youtube_gold_button",
             "top_10_cmc_pairs",
             "villa_for_dev_team"
-        ]
-    },
-    {
-        "date": "2024-09-13",
-        "answer": [
-            "appstore_launch",
-            "margin_trading_x50",
-            "medium"
         ]
     }
 ]
