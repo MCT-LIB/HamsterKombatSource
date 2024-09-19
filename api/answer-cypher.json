@@ -1,5 +1,9 @@
 [
     {
+        "date": "2024-09-20",
+        "answer": "BYBIT"
+    },
+    {
         "date": "2024-09-19",
         "answer": "OKX"
     },
@@ -22,9 +26,5 @@
     {
         "date": "2024-09-14",
         "answer": "INTEREST"
-    },
-    {
-        "date": "2024-09-13",
-        "answer": "INSPIRE"
     }
 ]
