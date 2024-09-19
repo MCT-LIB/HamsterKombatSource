@@ -920,6 +920,11 @@
         "section": "Specials"
     },
     {
+        "id": "water_mars",
+        "name": "Water on Mars",
+        "section": "Specials"
+    },
+    {
         "id": "web3_academy_launch",
         "name": "Web3 academy launch",
         "section": "Specials"
