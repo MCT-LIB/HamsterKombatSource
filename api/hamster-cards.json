@@ -555,6 +555,11 @@
         "section": "Specials"
     },
     {
+        "id": "feat_star",
+        "name": "Feat with a star",
+        "section": "Specials"
+    },
+    {
         "id": "fight_fight",
         "name": "Fight fight fight",
         "section": "Specials"
