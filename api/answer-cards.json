@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-21",
+        "answer": [
+            "licence_japan",
+            "security_audition",
+            "staking"
+        ]
+    },
+    {
         "date": "2024-09-20",
         "answer": [
             "compliance_officer",
@@ -45,14 +53,6 @@
             "binance_listing",
             "bybit_listing",
             "okx_listing"
-        ]
-    },
-    {
-        "date": "2024-09-14",
-        "answer": [
-            "hamster_youtube_gold_button",
-            "top_10_cmc_pairs",
-            "villa_for_dev_team"
         ]
     }
 ]
