@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-22",
+        "answer": [
+            "dao",
+            "support_team",
+            "telegram_50m"
+        ]
+    },
+    {
         "date": "2024-09-21",
         "answer": [
             "licence_japan",
@@ -45,14 +53,6 @@
             "special_hamster_conference",
             "telegram_miniapp_launch",
             "twitter_10_million"
-        ]
-    },
-    {
-        "date": "2024-09-15",
-        "answer": [
-            "binance_listing",
-            "bybit_listing",
-            "okx_listing"
         ]
     }
 ]
